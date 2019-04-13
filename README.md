@@ -1,6 +1,6 @@
 <img src="icon.png" align="right" />
 
-# 高峡-机器学习手册 [![Awesome](http://www.datahunt.cn/images/logo.png)](http://www.datahunt.cn/)
+# 高峡-机器学习手册 [![Awesome](http://www.datahunt.cn/images/logo-blue.png)](http://www.datahunt.cn/)
 > 完整的机器学习手册
 
 包括完整的基于Python机器学习的文档，源码，技术框架，及实训.
